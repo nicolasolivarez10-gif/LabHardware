@@ -12,7 +12,24 @@ En conclusión, el sistema propuesto representa una solución eficiente y econó
 
 **Ejemplo de pc armada de mercado libre:**
 
+.**Detalles**
+.MICRO: AMD Athlon 3000G con cooler BOX
+
+.VIDEO: RADEON RX VEGA
+
+.MOTHER: A320M/A520M 3.2 HDMI PCI 4.0 (según stock)
+
+.DISCO SOLIDO: SSD 240 SATA3...
+
+.MEMORIA RAM: 8GB 2666/3200MHZ DDR4
+
+.GABINETE: ATX Power kit, fuente 500W
+
+.KIT: Teclado USB, Mouse USB
+
 ![Pc armada)](https://http2.mlstatic.com/D_NQ_NP_2X_939334-MLA106941655681_022026-F.webp)
+
+
 
 ## Comparación con una PC armada de Mercado Libre con un precio de 450.000(sin monitor)
 
@@ -20,11 +37,11 @@ Se comparó la configuración propuesta con una computadora armada equipada con 
 
 Aunque esta computadora puede utilizarse para tareas básicas de oficina, presenta varias diferencias respecto al equipo diseñado en este proyecto.
 
-La principal diferencia se encuentra en el **procesador**. El **AMD Ryzen 3 5300G** ofrece un rendimiento considerablemente superior al **AMD Athlon 3000G**, ya que posee **4 núcleos y 8 hilos**, mientras que el Athlon dispone de **2 núcleos y 4 hilos**. Esto permite ejecutar varias aplicaciones al mismo tiempo con mayor fluidez, especialmente durante videollamadas, navegación con múltiples pestañas y trabajo con documentos.
+La principal diferencia se encuentra en el **procesador**. El **AMD Ryzen 3 5300G** ofrece un rendimiento considerablemente superior al **AMD Athlon 3000G**, ya que posee **4 núcleos y 8 hilos**, mientras que el Athlon dispone de **4 núcleos y 6 hilos** ademas de que es mas antiguo(2019) que el Ryzen 3(2021). Esto permite ejecutar varias aplicaciones al mismo tiempo con mayor fluidez, especialmente durante videollamadas, navegación con múltiples pestañas y trabajo con documentos.
 
 En cuanto a la **memoria RAM**, la PC propuesta incorpora **16 GB DDR4**, mientras que la computadora armada incluye solo **8 GB**. Esta diferencia mejora notablemente el rendimiento en multitarea y reduce la posibilidad de que el sistema se vuelva lento al utilizar varios programas simultáneamente.
 
-Respecto al **almacenamiento**, el equipo diseñado cuenta con un **SSD de 512 GB**, duplicando la capacidad del SSD de **240 GB** de la PC prearmada. Esto permite almacenar una mayor cantidad de documentos, aplicaciones y archivos sin necesidad de ampliar el almacenamiento en el corto plazo.
+Respecto al **almacenamiento**, el equipo diseñado cuenta con un **SSD de 512 GB**, duplicando la capacidad del SSD de **240 GB** de la PC armada. Esto permite almacenar una mayor cantidad de documentos, aplicaciones y archivos sin necesidad de ampliar el almacenamiento en el corto plazo.
 
 Otro aspecto importante es la selección de componentes. En la computadora prearmada no se especifican con precisión algunos elementos, como el modelo exacto de la motherboard (A320M o A520M, según disponibilidad) ni la calidad de la fuente de alimentación incluida con el gabinete. En cambio, en la configuración propuesta se eligieron componentes específicos y compatibles, garantizando mayor confiabilidad y facilitando futuras actualizaciones.
 
