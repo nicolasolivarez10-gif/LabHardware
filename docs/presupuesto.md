@@ -8,7 +8,7 @@
 | Almacenamiento | Disco Solido SSD Team 512GB QX 560MB/s | $140.000 | https://compragamer.com|
 | GPU | Radeon Vega 6 integrada (en CPU) | $0 | AMD |
 | Fuente | Fuente 450W Gamemax VP-450 | $55.000 | https://www.maximus.com.ar |
-| Gabinete | Zer01 Gaming Centauri (3 fan) | $45.000 | https://www.mercadolibre.com.ar |
+| Gabinete | Gabinete Magnum Tech 436B 1x120mm FRGB Fan Vidrio Templado | $28.000 | https://compragamer.com|
 | Monitor | Gadnic 19 pulgadas full hd| $91.000 | https://www.mercadolibre.com.ar/monitor-gadnic-led-19-full-hd-75hz-hdmi-vga|
 | Kit mouse,teclado y auriculares | XSoul | $44.000 | https://www.mercadolibre.com.ar/kit-de-teclado-mouse-pad-auriculares-y-mouse-gamer-soul-4-en-1 |
 | Camara  | Webcam Pro Full Hd C920s 1080p 30 Fps Logitech Color Negro | $138.000 | https://www.mercadolibre.com.ar/webcam-pro-full-hd-c920s-1080p-30-fps-logitech-color-negro|
@@ -20,8 +20,8 @@
 
 ## Total aproximado 
 
-**$944.000 ARS**
+**$916.000 ARS**
 
 ## Total aproximado con Sistema operativo
 
-**$1.204.000 ARS**
+**$1.176.000 ARS**
