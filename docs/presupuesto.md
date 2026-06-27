@@ -14,7 +14,7 @@
 | Camara  | Webcam Pro Full Hd C920s 1080p 30 Fps Logitech Color Negro | $138.000 | https://www.mercadolibre.com.ar/webcam-pro-full-hd-c920s-1080p-30-fps-logitech-color-negro|
 ## Sistema operativo 
 
-Windows 11 Licencia oficial:260.000(ARS)
+**Windows 11 Licencia oficial:260.000(ARS)**
 
 . https://www.microsoft.com/es-ar/d/windows-11-home/dg7gmgf0krt0
 
