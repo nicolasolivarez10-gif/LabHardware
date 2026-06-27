@@ -13,6 +13,7 @@ En conclusión, el sistema propuesto representa una solución eficiente y econó
 **Ejemplo de pc armada de mercado libre:**
 
 .**Detalles**
+
 .MICRO: AMD Athlon 3000G con cooler BOX
 
 .VIDEO: RADEON RX VEGA
