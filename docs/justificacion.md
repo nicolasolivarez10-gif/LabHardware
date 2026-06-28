@@ -71,9 +71,3 @@ Se eligió esta cámara web porque ofrece excelente calidad de imagen en Full HD
 ## Sistema operativo – Windows 11 Licencia oficial
 
 Se selecciona Windows 11 por ser un sistema operativo moderno, seguro y compatible con todos los programas requeridos. Su interfaz es intuitiva y está optimizada para productividad.
-
----
-
-## Conclusión técnica
-
-Este sistema está pensado para un entorno de oficina y educación, ofreciendo un equilibrio entre rendimiento y costo. Permite ejecutar todas las aplicaciones requeridas de forma fluida sin necesidad de hardware de alta gama.
