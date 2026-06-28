@@ -1,20 +1,8 @@
-# 📘 Sistema Informático para Oficina
+# Proyecto
 
-Bienvenido a la documentación del proyecto.
+## Documentación
 
----
-
-## 📂 Documentación
-
-### 📄 Secciones
-
-- [Requisitos](requisitos.md)
 - [Justificación](justificacion.md)
 - [Presupuesto](presupuesto.md)
 - [Conclusiones](conclusiones.md)
-
----
-
-## 📋 Descripción
-
-En esta documentación se presentan los requisitos, la justificación, el presupuesto y las conclusiones del proyecto.
+- [Requisito](requisito.md)
