@@ -34,8 +34,8 @@ Bienvenido al proyecto
 <div class="card">
   <h3>📂 Documentación</h3>
 
-  <a class="button" href="justificacion.md">Justificación</a>
-  <a class="button" href="presupuesto.md">Presupuesto</a>
-  <a class="button" href="requisito.md">Requisitos</a>
-  <a class="button" href="conclusiones.md">Conclusiones</a>
+- [Justificación](justificacion.md)
+- [Presupuesto](presupuesto.md)
+- [Conclusiones](conclusiones.md)
+- [Requisito](requisito.md)
 </div>
