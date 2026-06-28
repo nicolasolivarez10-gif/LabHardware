@@ -13,10 +13,12 @@ Este sitio contiene toda la información técnica, económica y funcional del si
 - 📄 [Justificación del proyecto](justificacion.md)  
   Explica el problema, objetivos y necesidad del sistema.
 
-- 💰 [Presupuesto](presupuesto.md)  
+- 💰 
+[Presupuesto](presupuesto.md)  
   Detalle de costos, recursos y estimaciones.
 
-- 🧾 [Requisitos del sistema](requisito.md)  
+- 🧾 
+[Requisitos del sistema](requisitos.md)  
   Especificaciones funcionales y técnicas.
 
 - 📊 [Conclusiones](conclusiones.md)  
