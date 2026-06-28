@@ -8,10 +8,10 @@ Bienvenido a la documentación del proyecto.
 
 ### 📄 Secciones
 
-- **[Requisitos](requisitos.md)**
-- **[Justificación](justificacion.md)**
-- **[Presupuesto](presupuesto.md)**
-- **[Conclusiones](conclusiones.md)**
+- [Requisitos](requisitos.md)
+- [Justificación](justificacion.md)
+- [Presupuesto](presupuesto.md)
+- [Conclusiones](conclusiones.md)
 
 ---
 
