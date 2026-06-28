@@ -1,49 +1,47 @@
 # Conclusiones
 
-Luego de analizar los requisitos de los programas a utilizar (Google Chrome, VLC Media Player, Mozilla Thunderbird, LibreOffice y Zoom), se diseñó un sistema informático que ofrece un equilibrio entre rendimiento, costo y posibilidad de actualización.
+Luego de analizar los requisitos de los programas a utilizar (Google Chrome, VLC Media Player, Mozilla Thunderbird, LibreOffice y Zoom), se diseñó un sistema informático que ofrece un **equilibrio entre rendimiento, costo y posibilidad de actualización**.
 
-La configuración seleccionada, compuesta por el procesador AMD Ryzen 3 5300G, 16 GB de memoria RAM, un SSD de 512 GB y gráficos integrados Radeon Vega 6, cumple con las necesidades de un entorno de oficina. Esta combinación permite ejecutar varias aplicaciones al mismo tiempo, realizar videollamadas, navegar por Internet, trabajar con documentos y reproducir contenido multimedia de manera fluida.
+La configuración seleccionada, compuesta por el procesador AMD Ryzen 3 5300G, 16 GB de memoria RAM, un SSD de 512 GB y gráficos integrados Radeon Vega 6, cumple con las necesidades de un entorno de oficina. Esta combinación permite:
+* Ejecutar varias aplicaciones al mismo tiempo.
+* Realizar videollamadas y navegar por Internet.
+* Trabajar con documentos y reproducir contenido multimedia de manera fluida.
 
-También se eligieron componentes compatibles entre sí, como la motherboard ASUS Prime A520M-K, una fuente de alimentación adecuada y un gabinete con buena ventilación, garantizando un funcionamiento estable y una mayor vida útil del equipo.
+> 🛠️ **Compatibilidad garantizada:** También se eligieron componentes compatibles entre sí, como la motherboard ASUS Prime A520M-K, una fuente de alimentación adecuada y un gabinete con buena ventilación, garantizando un funcionamiento estable y una mayor vida útil del equipo.
 
-A diferencia de muchas computadoras ya armadas que se comercializan en sitios como Mercado Libre, esta configuración fue diseñada seleccionando cada componente según las necesidades reales del usuario. Esto permite obtener una mejor relación entre precio y rendimiento, evitar componentes de baja calidad y facilitar futuras actualizaciones, como ampliar la memoria RAM o aumentar la capacidad de almacenamiento sin reemplazar todo el equipo.
+A diferencia de muchas computadoras ya armadas que se comercializan en sitios como Mercado Libre, esta configuración fue diseñada seleccionando cada componente según las **necesidades reales del usuario**. Esto permite:
+1. Obtener una mejor relación entre precio y rendimiento.
+2. Evitar componentes de baja calidad.
+3. Facilitar futuras actualizaciones, como ampliar la memoria RAM o aumentar la capacidad de almacenamiento sin reemplazar todo el equipo.
 
-En conclusión, el sistema propuesto representa una solución eficiente y económica para tareas de oficina, ofreciendo un buen desempeño, confiabilidad y posibilidades de crecimiento a futuro, adaptándose a las necesidades del usuario y optimizando la inversión realizada.
+En conclusión, el sistema propuesto representa una **solución eficiente y económica** para tareas de oficina, ofreciendo un buen desempeño, confiabilidad y posibilidades de crecimiento a futuro, adaptándose a las necesidades del usuario y optimizando la inversión realizada.
 
-**Ejemplo de pc armada de mercado libre:**
+---
 
-.**Detalles**
+### Ejemplo de PC armada de Mercado Libre:
 
-.MICRO: AMD Athlon 3000G con cooler BOX
+**Detalles:**
+* **MICRO:** AMD Athlon 3000G con cooler BOX
+* **VIDEO:** RADEON RX VEGA
+* **MOTHER:** A320M/A520M 3.2 HDMI PCI 4.0 (según stock)
+* **DISCO SOLIDO:** SSD 240 SATA3...
+* **MEMORIA RAM:** 8GB 2666/3200MHZ DDR4
+* **GABINETE:** ATX Power kit, fuente 500W
+* **KIT:** Teclado USB, Mouse USB
 
-.VIDEO: RADEON RX VEGA
+![Pc armada](https://http2.mlstatic.com/D_NQ_NP_2X_939334-MLA106941655681_022026-F.webp)
 
-.MOTHER: A320M/A520M 3.2 HDMI PCI 4.0 (según stock)
+---
 
-.DISCO SOLIDO: SSD 240 SATA3...
-
-.MEMORIA RAM: 8GB 2666/3200MHZ DDR4
-
-.GABINETE: ATX Power kit, fuente 500W
-
-.KIT: Teclado USB, Mouse USB
-
-![Pc armada)](https://http2.mlstatic.com/D_NQ_NP_2X_939334-MLA106941655681_022026-F.webp)
-
-
-
-## Comparación con una PC armada de Mercado Libre con un precio de 450.000(sin monitor)
+## Comparación con una PC armada de Mercado Libre con un precio de 450.000 (sin monitor)
 
 Se comparó la configuración propuesta con una computadora armada equipada con un procesador **AMD Athlon 3000G**, gráficos integrados Radeon Vega, **8 GB de memoria RAM**, un **SSD de 240 GB** y una motherboard A320M o A520M.
 
-Aunque esta computadora puede utilizarse para tareas básicas de oficina, presenta varias diferencias respecto al equipo diseñado en este proyecto.
+Aunque esta computadora puede utilizarse para tareas básicas de oficina, presenta varias diferencias respecto al equipo diseñado en este proyecto:
 
-La principal diferencia se encuentra en el **procesador**. El **AMD Ryzen 3 5300G** ofrece un rendimiento considerablemente superior al **AMD Athlon 3000G**, ya que posee **4 núcleos y 8 hilos**, mientras que el Athlon dispone de **4 núcleos y 6 hilos** ademas de que es mas antiguo(2019) que el Ryzen 3(2021). Esto permite ejecutar varias aplicaciones al mismo tiempo con mayor fluidez, especialmente durante videollamadas, navegación con múltiples pestañas y trabajo con documentos.
+* **Procesador:** La principal diferencia se encuentra en el **procesador**. El **AMD Ryzen 3 5300G** ofrece un rendimiento considerablemente superior al **AMD Athlon 3000G**, ya que posee **4 núcleos y 8 hilos**, mientras que el Athlon dispone de **4 núcleos y 6 hilos** ademas de que es mas antiguo (2019) que el Ryzen 3 (2021). Esto permite ejecutar varias aplicaciones al mismo tiempo con mayor fluidez, especialmente durante videollamadas, navegación con múltiples pestañas y trabajo con documentos.
+* **Memoria RAM:** En cuanto a la **memoria RAM**, la PC propuesta incorpora **16 GB DDR4**, mientras que la computadora armada incluye solo **8 GB**. Esta diferencia mejora notablemente el rendimiento en multitarea y reduce la posibilidad de que el sistema se vuelva lento al utilizar varios programas simultáneamente.
+* **Almacenamiento:** Respecto al **almacenamiento**, el equipo diseñado cuenta con un **SSD de 512 GB**, duplicando la capacidad del SSD de **240 GB** de la PC armada. Esto permite almacenar una mayor cantidad de documentos, aplicaciones y archivos sin necesidad de ampliar el almacenamiento en el corto plazo.
+* **Selección de componentes:** Otro aspecto importante es la selección de componentes. En la computadora prearmada no se especifican con precisión algunos elementos, como el modelo exacto de la motherboard (A320M o A520M, según disponibilidad) ni la calidad de la fuente de alimentación incluida con el gabinete. En cambio, en la configuración propuesta se eligieron componentes específicos y compatibles, garantizando mayor confiabilidad y facilitando futuras actualizaciones.
 
-En cuanto a la **memoria RAM**, la PC propuesta incorpora **16 GB DDR4**, mientras que la computadora armada incluye solo **8 GB**. Esta diferencia mejora notablemente el rendimiento en multitarea y reduce la posibilidad de que el sistema se vuelva lento al utilizar varios programas simultáneamente.
-
-Respecto al **almacenamiento**, el equipo diseñado cuenta con un **SSD de 512 GB**, duplicando la capacidad del SSD de **240 GB** de la PC armada. Esto permite almacenar una mayor cantidad de documentos, aplicaciones y archivos sin necesidad de ampliar el almacenamiento en el corto plazo.
-
-Otro aspecto importante es la selección de componentes. En la computadora prearmada no se especifican con precisión algunos elementos, como el modelo exacto de la motherboard (A320M o A520M, según disponibilidad) ni la calidad de la fuente de alimentación incluida con el gabinete. En cambio, en la configuración propuesta se eligieron componentes específicos y compatibles, garantizando mayor confiabilidad y facilitando futuras actualizaciones.
-
-En conclusión, aunque la PC armada representa una alternativa económica para tareas básicas/minimas, la configuración desarrollada en este proyecto ofrece un mejor equilibrio entre rendimiento, capacidad de almacenamiento, multitarea y posibilidad de expansión, convirtiéndose en una opción más adecuada para un entorno de oficina con una mayor vida útil ademas de poder correr programas en configuraciones recomendadas sin tener ningun problema.
+ℹ️ **Conclusión del análisis:** En conclusión, aunque la PC armada representa una alternativa económica para tareas básicas/minimas, la configuración desarrollada en este proyecto ofrece un mejor equilibrio entre rendimiento, capacidad de almacenamiento, multitarea y posibilidad de expansión, convirtiéndose en una opción más adecuada para un entorno de oficina con una mayor vida útil ademas de poder correr programas en configuraciones recomendadas sin tener ningun problema.
